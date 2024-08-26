@@ -1,7 +1,6 @@
 
-<!--  Big O Notation
-Space Complexity O(n): The function creates an array fib that stores all Fibonacci numbers up to the nth element, so the space required grows linearly with 𝑛 .
- -->
+# Big O Notation Space Complexity O(n): The function creates an array fib that stores all Fibonacci numbers up to the nth element, so the space required grows linearly with 𝑛 .
+ 
 
 
 # fib
